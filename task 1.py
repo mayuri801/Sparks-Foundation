@@ -1,6 +1,6 @@
 # DATA SCIENCE AND BUSINESS ANALYTICS at SPARKS FOUNDATION
 
-# Author: Harshpreet Kaur
+# Author: Mayuri Patel
 
 #----------------------------------------------------------------------
 # TASK 1: Prediction using Supervised ML
